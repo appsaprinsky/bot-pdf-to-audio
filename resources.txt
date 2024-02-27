@@ -1,0 +1,16 @@
+https://docs.python.org/3/library/venv.html
+https://pythongeeks.org/python-convert-pdf-text-to-audio-speech/
+https://www.makeuseof.com/python-project-convert-pdf-audiobook/
+
+https://stackoverflow.com/questions/77197398/error-running-pyttsx3-code-on-os-x-nameerror-name-objc-is-not-defined
+
+https://kzvesti.kz/pdf/32-19-704/
+https://stackoverflow.com/questions/46918321/how-do-i-send-mp3-file-with-python-using-telegram-bot
+
+
+https://docs.python-telegram-bot.org/en/stable/telegram.ext.filters.html
+https://docs.python-telegram-bot.org/en/v20.8/examples.html
+
+
+pip freeze > requirements.txt
+https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/
